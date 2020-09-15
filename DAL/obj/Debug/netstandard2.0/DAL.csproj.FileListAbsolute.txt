@@ -1,0 +1,12 @@
+D:\Documentos\BRAHAYAN\Proyecto\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\Documentos\BRAHAYAN\Proyecto\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\Documentos\BRAHAYAN\Proyecto\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Documentos\BRAHAYAN\Proyecto\DAL\bin\Debug\netstandard2.0\Entity.dll
+D:\Documentos\BRAHAYAN\Proyecto\DAL\bin\Debug\netstandard2.0\Entity.pdb
+D:\Documentos\BRAHAYAN\Proyecto\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\Documentos\BRAHAYAN\Proyecto\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\Documentos\BRAHAYAN\Proyecto\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\Documentos\BRAHAYAN\Proyecto\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\Documentos\BRAHAYAN\Proyecto\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\Documentos\BRAHAYAN\Proyecto\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\Documentos\BRAHAYAN\Proyecto\DAL\obj\Debug\netstandard2.0\DAL.pdb
